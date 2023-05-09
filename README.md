@@ -7,9 +7,7 @@
 
 This is a study project that aim to cluster customers of an e-commerce, to begin an loyalty program.
 
-On the first cycle of the solution, based on CRISP method, the result was a RFM Analysis. The graphic representation of it was:
-
-<img src="images/rfm.png"/>
+On the first cycle of the solution, based on CRISP method, the result was a RFM Analysis. 
 
 &nbsp; 
 
@@ -34,3 +32,13 @@ As a data scientist at BigBox, you need to determine which customers are eligibl
 -------------------
 
 **<h2> 2 - Solution Strategy </h2>**
+
+&nbsp; 
+
+-------------------
+
+**<h2> RFM Analysis </h2>**
+The graphic representation of it was:
+
+<img src="images/rfm.png"/>
+
