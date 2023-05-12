@@ -32,6 +32,9 @@ As a data scientist at BigBox, you need to determine which customers are eligibl
 -------------------
 
 **<h2> 2 - Solution Strategy </h2>**
+In this project will be used the Cross Industry Standard Process for Data Mining or CRISP-DM is an open standard process framework model for data mining project planning.
+
+<img src="images/crisp.png"/>
 
 &nbsp; 
 
