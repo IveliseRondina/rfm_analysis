@@ -36,12 +36,39 @@ In this project will be used the Cross Industry Standard Process for Data Mining
 
 <img src="images/crisp.png"/>
 
+As a result of the first solution cycle, the solution was a customer segmentation model based on Recency, Frequency and Monetary Value - RFM Analysis.
+
 &nbsp; 
 
 -------------------
 
 **<h2> RFM Analysis </h2>**
+
+RFM is a powerful technique for segmenting customers based on how engaged they are with the business. It provides valuable insights into customer behavior by looking at how long ago they made a purchase, how often they shop, and how much they spend. By assigning scores to each of these factors and grouping customers into segments, companies can tailor their marketing efforts to specific customer groups and improve overall customer engagement and loyalty.
+
 The graphic representation of it was:
 
 <img src="images/rfm.png"/>
+
+<img src="images/rfmdist.png"/>
+
+<img src="images/snake.png"/>
+
+<img src="images/recency.png"/>
+
+<img src="images/monetary.png"/>
+
+<img src="images/rfm.png"/>
+
+
+
+**<h2> Insiders Analysis </h2>**
+
+<img src="images/frequency_IxG.png"/>
+
+<img src="images/monetary_IxG.png"/>
+
+<img src="images/wordcloud.png"/>
+
+
 
