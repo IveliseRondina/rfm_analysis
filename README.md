@@ -71,6 +71,19 @@ The graphic representation of it was:
 
 <img src="images/rfm.png"/>
 
+| Customer Segment         | Activity                                                                                  | What to do                                                                                                    |
+|--------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Champions                | Recently purchased, frequent buyers, high spenders                                        | Reward them. They can be early adopters of your new products. They will promote your brand.                  |
+| Loyal Customers          | High spenders, frequent buyers. Respond well to promotions                                | Offer higher-value products (upsell). Ask for reviews. Engage them.                                          |
+| Potential to be Loyal    | Recently purchased, spent a good amount, and made multiple purchases                      | Offer a loyalty program and recommend other products.                                                        |
+| Recent Customers         | Recently purchased but with low frequency                                                 | Start building a relationship, offer support, deliver value quickly.                                          |
+| Promising Customers      | Recently purchased but spent very little                                                  | Engage them with your brand, offer free trials.                                                                |
+| Customers Needing Attention | High frequency and high spenders, but it's been a while since their last purchase         | Reactivate them, offer limited-time deals on similar products they previously purchased.                      |
+| Almost Hibernating       | High frequency and high spenders, but it's been a LONG time since their last purchase    | Offer great and popular products, discounts. Reconnect!                                                       |
+| At Risk                  | High frequency and high spenders, but it's been a VERY LONG time since their last purchase | Send personalized emails, SMS, and messages, offer useful products.                                           |
+| Can't Lose Them          | High frequency and high spenders, but it's been even longer since their last purchase    | Win them back with new products, have conversations with them.                                                |
+| Hibernating              | Last purchase was a long time ago, spent little, and made few purchases                   | Offer relevant products with special discounts. Recreate value with the brand.                               |
+
 
 
 
