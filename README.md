@@ -25,7 +25,7 @@ At BIGBox, a multi-brand e-commerce company, the marketing team realized that so
 
 The marketing team does not have advanced knowledge in data analysis to select program participants. For this reason, the data team will select eligible clients for the program, using advanced data manipulation techniques.
 
-As a data scientist at BigBox, you need to determine which customers are eligible to participate in **Insiders**. In possession of this list, the Marketing team will carry out a sequence of personalized and exclusive actions for the group, in order to increase revenue and purchase frequency.
+The data scientist team at BigBox, will need to determine which customers are eligible to participate in **Insiders**. In possession of this list, the Marketing team will carry out a sequence of personalized and exclusive actions for the group, in order to increase revenue and purchase frequency.
 
 &nbsp; 
 
@@ -46,9 +46,6 @@ As a result of the first solution cycle, the solution was a customer segmentatio
 
 RFM is a powerful technique for segmenting customers based on how engaged they are with the business. It provides valuable insights into customer behavior by looking at how long ago they made a purchase, how often they shop, and how much they spend. By assigning scores to each of these factors and grouping customers into segments, companies can tailor their marketing efforts to specific customer groups and improve overall customer engagement and loyalty.
 
-The graphic representation of it was:
-
-<img src="images/rfm.png"/>
 
 <img src="images/rfmdist.png"/>
 
@@ -58,9 +55,6 @@ The graphic representation of it was:
 
 <img src="images/monetary.png"/>
 
-<img src="images/rfm.png"/>
-
-
 
 **<h2> Insiders Analysis </h2>**
 
@@ -69,6 +63,14 @@ The graphic representation of it was:
 <img src="images/monetary_IxG.png"/>
 
 <img src="images/wordcloud.png"/>
+
+
+**<h2> RFM Table </h2>**
+
+The graphic representation of it was:
+
+<img src="images/rfm.png"/>
+
 
 
 
