@@ -46,17 +46,39 @@ As a result of the first solution cycle, the solution was a customer segmentatio
 
 RFM is a powerful technique for segmenting customers based on how engaged they are with the business. It provides valuable insights into customer behavior by looking at how long ago they made a purchase, how often they shop, and how much they spend. By assigning scores to each of these factors and grouping customers into segments, companies can tailor their marketing efforts to specific customer groups and improve overall customer engagement and loyalty.
 
+The distribution of the customers based on RFM Analysis was:
 
 <img src="images/rfmdist.png"/>
 
-<img src="images/snake.png"/>
 
-<img src="images/recency.png"/>
+With this graph, it can be seen that:
+
+* The groups **Hibernating** and **At Risk** correspond to just over 38%, which suggests attention to these groups.
+* 18,3% of the customers has potential of, in the future, become Insiders.
+* The **Champions** group, that will be the insiders, represent 14,78% of the customers. 
+
+
+&nbsp; 
+
+Analyzing the monetary distribution, based on the RFM analysis, it is observed that:
 
 <img src="images/monetary.png"/>
 
+* Despite being only 14% of customers, the **Champion** group represents almost 50% of revenue.
+* The groups **Hibernating** and **At Risk** represents almost 15%, which confirms the need for focused action.
+
+&nbsp; 
+
+<img src="images/snake.png"/>
+
+**ANALYSIS**
+
 
 **<h2> Insiders Analysis </h2>**
+
+Looking more specifically at the **Insiders Group**, some analyzes will be described below.
+
+<img src="images/recency.png"/>
 
 <img src="images/frequency_IxG.png"/>
 
